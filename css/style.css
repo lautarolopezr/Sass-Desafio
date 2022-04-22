@@ -1,0 +1,21 @@
+h1 {
+  font-size: 40px;
+  color: red;
+}
+h1 p {
+  background-color: brown;
+}
+
+ul li {
+  list-style: none;
+}
+ul li a {
+  text-decoration: none;
+  background-color: red;
+  display: inline-block;
+  padding: 40px;
+  color: #fff;
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=style.css.map */

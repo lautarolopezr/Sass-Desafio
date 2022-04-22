@@ -1,0 +1,22 @@
+h1{
+    font-size: 40px;
+    color:$color-primary;
+    p{
+        background-color: brown;
+    }
+}
+
+ul{
+    li{
+        
+        list-style: none;
+        a{
+            text-decoration: none;
+            background-color: $color-primary;
+            display: inline-block;
+            padding: 40px;
+            color:#fff;
+            border: 1px solid black;
+        }
+    }
+}
